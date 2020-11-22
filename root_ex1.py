@@ -17,8 +17,8 @@ def root_ex_1(a,b,c):
     x_2= (-b-(b**2-4*a*c)**0.5)/(2*a)
     return x_1 , x_2
 
-x = int(input('이차항의 계수는?'))
-y = int(input('일차항의 계수는?'))
+x = int(input('이차항의 계수는fff?'))
+y = int(input('일차항의 계수는fffff?'))
 z = int(input('상수는?'))
 x1, x2 = root_ex_1(x,y,z)
 
