@@ -1,5 +1,5 @@
-def return_func():
-    return 3
+def return_func(a):
+    return a
 
-a = return_func()
-print(a)
+b = return_func(6)
+print(b)
